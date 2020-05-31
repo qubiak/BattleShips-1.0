@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="battleships">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/battleships.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
